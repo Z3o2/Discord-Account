@@ -1,2 +1,2 @@
-# Discord-Account
-Discord Account Message Sender 
+# .gg/ScriptKitties
+All EDU PURPOSES
